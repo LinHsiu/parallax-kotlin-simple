@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desktop-show-hsiu_parallax.iml" filepath="$PROJECT_DIR$/Desktop-show-hsiu_parallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallax-kotlin-simple/app.iml" filepath="$PROJECT_DIR$/parallax-kotlin-simple/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github-parallax-kotlin-simple.iml" filepath="$PROJECT_DIR$/github-parallax-kotlin-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hsiu_parallax.iml" filepath="$PROJECT_DIR$/hsiu_parallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallax-kotlin-simple/parallax-kotlin-simple-parallax-kotlin-simple.iml" filepath="$PROJECT_DIR$/parallax-kotlin-simple/parallax-kotlin-simple-parallax-kotlin-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/show-hsiu_parallax.iml" filepath="$PROJECT_DIR$/show-hsiu_parallax.iml" />
+    </modules>
+  </component>
+</project>
